@@ -42,7 +42,6 @@ Em vez de usar um template pronto, decidi construir tudo do zero — cada anima�
   <img src="./preview.png" alt="Preview do portfólio" width="100%">
 </p>
 
-> 💡 **Dica:** adicione um print ou GIF do site em `preview.png` na raiz do repositório.
 
 ---
 
